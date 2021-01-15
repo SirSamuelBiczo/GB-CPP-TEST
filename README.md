@@ -3,6 +3,7 @@ Exercice de connaissance en langage C++ : https://guillaumebelz.github.io/exerci
 
 # Exercice 1 
 https://wandbox.org/permlink/yhxUtaSkYM2MLjgi
+Retour de gb : https://pastebin.com/8dym8JRd
 
 # Exercice 2 
 https://wandbox.org/permlink/55tDr7M3Mr8lb566
