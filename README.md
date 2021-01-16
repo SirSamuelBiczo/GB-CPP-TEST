@@ -6,4 +6,5 @@ https://wandbox.org/permlink/yhxUtaSkYM2MLjgi
 Retour de gb : https://pastebin.com/8dym8JRd
 
 # Exercice 2 
+Nom du fichier main-ex2.cpp
 https://wandbox.org/permlink/N9LyRSt3UYSFPWQr
